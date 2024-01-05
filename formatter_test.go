@@ -179,7 +179,7 @@ var gosyntax = []test{
 	},
 	{
 		time.Date(2009, 11, 17, 20, 34, 58, 651387237, time.UTC),
-		"time.Date(2009, 11, 17, 20, 34, 58, 651387237, time.UTC)",
+		"time.Date(2009, time.November, 17, 20, 34, 58, 651387237, time.UTC)",
 	},
 }
 
