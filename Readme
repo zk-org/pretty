@@ -1,9 +1,11 @@
-package pretty
+A fork of https://github.com/kr/pretty used for the Zettelkasten note taking 
+program, zk.
 
-    import "github.com/kr/pretty"
+    import "github.com/zk-org/pretty"
 
     Package pretty provides pretty-printing for Go values.
 
 Documentation
 
-    http://godoc.org/github.com/kr/pretty
+    http://godoc.org/github.com/zk-org/pretty
+
